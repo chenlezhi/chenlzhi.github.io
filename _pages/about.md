@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 Lezhi Chen (陈乐知) is currently an undergraduate student at the College of Electrical Engineering, Sichuan University, expected to graduate in 2027. He is also a research intern of DICALab (Data Intelligence and Computing Arts Lab), under the supervision of Prof. [Wei Ju](https://juweipku.github.io/) and Prof. [Siyu Yi](https://yisiyu95.github.io/). His current research interests lie primarily on **graph representation learning** and **AI4science** such as bioinformatics/computational systems biology (spatial transcriptomics, single-cell multi-omics, RNA velocity, virtual cell). He is also interested in statistical physics, complex networks, Physics4Science, statistical theory and methods.
 
 陈乐知，目前是四川大学的本科生，本科专业为自动化，预计于2027年毕业。他同时也是DICALab（数据智能与计算艺术实验室）的实习生，在琚玮老师和易思宇老师的指导下进行研究。他当前的研究兴趣主要集中在**图表示学习**和**AI4Science**领域，如生物信息学/计算系统生物学（包括空间转录组学、单细胞多组学、轨迹推断和虚拟细胞）。此外，他还对统计物理、复杂网络、物理启发人工智能以及统计理论与方法感兴趣。除了科研以外，他还热爱研究二次元，包括Galgame、动漫、漫画与轻小说()如果你也对AI4Science和AI4acgn感兴趣，请随时邮件联系！
